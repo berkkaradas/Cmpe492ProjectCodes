@@ -138,3 +138,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+Cmpe492ThesisCodes/
+data/affectnet_efficient.h5
+data/mustafa-kemal-ataturk.jpg
